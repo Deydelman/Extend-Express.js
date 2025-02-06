@@ -1,5 +1,5 @@
 {
-    "compiler0ptions": {
+  "compilerOptions": {
       "esModuleInterop": true,
       "module": "es6",
       "moduleResolution": "node",
